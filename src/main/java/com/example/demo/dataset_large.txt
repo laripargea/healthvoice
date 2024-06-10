@@ -1,0 +1,307 @@
+1. The doctor was rude and the waiting time was unacceptable. -1
+2. I had a negative experience with the hospital staff. 0
+3. The healthcare service was satisfactory, but could improve. 1
+4. The treatment helped me a lot, I'm feeling better. 2
+5. Excellent care from the medical team, very satisfied! 4
+6. Awful experience, wouldn't recommend this clinic. -1
+7. Nurses were unhelpful and seemed careless. -1
+8. The quality of care needs improvement. 0
+9. It was an average experience at the hospital. 1
+10. The doctor was fantastic, very attentive and knowledgeable! 4
+11. Terrible service, won't be returning. -1
+12. I wasn't satisfied with the medical advice I received. 0
+13. The healthcare service was okay, nothing outstanding. 1
+14. Great treatment and friendly staff. 4
+15. Very disappointed with the care provided. -1
+16. Poor communication from the healthcare professionals. -1
+17. Could be better, didn't meet my expectations. 0
+18. Neutral experience at the clinic. 1
+19. The treatment was excellent, highly recommend! 4
+20. Absolutely amazing care, couldn't ask for better! 4
+21. I hated the service, wouldn't recommend it. -1
+22. Below average quality of care. 0
+23. Okay experience at the hospital, nothing special. 1
+24. Very satisfied with the treatment received. 4
+25. Dissatisfied with the healthcare service, didn't help much. -1
+26. The staff was unprofessional and unfriendly. -1
+27. Average medical care, nothing exceptional. 0
+28. It was alright, but could have been better. 1
+29. The best healthcare service I've ever received! 4
+30. Superb care, exceeded my expectations! 4
+31. Waste of time and money, wouldn't recommend. -1
+32. Poor quality healthcare, disappointed. -1
+33. Not bad, but there's room for improvement. 0
+34. Had a decent experience overall. 1
+35. Amazing treatment, worth every penny! 4
+36. Absolutely terrible, avoid this hospital. -1
+37. Extremely rude staff, worst service ever. -1
+38. Average quality of care, nothing special. 0
+39. Neither good nor bad, just okay. 1
+40. Incredible healthcare service, exceeded expectations! 4
+41. Couldn't be happier with the treatment! 4
+42. Horrible experience, regret going there. -1
+43. Not satisfied with the service received. -1
+44. Subpar quality of care, not worth it. 0
+45. It was fine, nothing remarkable. 1
+46. Very impressed with the treatment, great value! 4
+47. Awful service, wouldn't recommend to anyone. -1
+48. Disappointing healthcare service, didn't meet expectations. -1
+49. Average service, nothing outstanding. 0
+50. Decent experience, could have been better. 1
+51. Loving the treatment, great care! 4
+52. Outstanding service, highly recommend! 4
+53. Regret going there, waste of money. -1
+54. Very poor healthcare service experience. -1
+55. Not impressed with the quality of care. 0
+56. Okay experience overall. 1
+57. Fantastic treatment, exceeded my expectations! 4
+58. Delighted with the care received, thank you! 4
+59. Absolutely dreadful, avoid at all costs. -1
+60. Extremely dissatisfied with the service. -1
+61. Poor quality treatment, wouldn't go again. 0
+62. It was fine, nothing too special. 1
+63. Impressed with the quality of care. 4
+64. Terrible service, wouldn't recommend. -1
+65. Treatment didn't meet expectations, disappointed. -1
+66. Average quality of care, nothing exceptional. 0
+67. Neutral experience, neither good nor bad. 1
+68. Amazing treatment, highly recommend! 4
+69. Superb care, very satisfied! 4
+70. Waste of money, regret going there. -1
+71. Very disappointed with the service. -1
+72. Subpar quality of care for the price. 0
+73. It was okay, nothing extraordinary. 1
+74. Very happy with the treatment, thank you! 4
+75. Extremely dissatisfied, would not return. -1
+76. Horrible healthcare service experience. -1
+77. Mediocre quality of care, needs improvement. 0
+78. Fair experience, nothing exceptional. 1
+79. Excellent treatment, exceeded expectations! 4
+80. Couldn't be happier with the care received! 4
+81. Absolutely awful, never again. -1
+82. Service was terrible, highly disappointed. -1
+83. Below average quality of care, not recommended. 0
+84. It was alright, nothing to write home about. 1
+85. Very impressed with the treatment, great value! 4
+86. Dreadful experience, would not recommend. -1
+87. Unsatisfactory service, very disappointed. -1
+88. Average quality of care, nothing special. 0
+89. Neutral experience, neither good nor bad. 1
+90. Fantastic treatment, highly recommend! 4
+91. Outstanding service, exceeded expectations! 4
+92. Regret going there, waste of money. -1
+93. Poor quality healthcare service, not helpful at all. -1
+94. Okay quality of care, could have been better. 0
+95. It was fine, nothing remarkable. 1
+96. Very satisfied with the treatment, thank you! 4
+97. Disappointed with the healthcare service, not worth it. -1
+98. Terrible service, wouldn't recommend. -1
+99. Average quality of care, nothing exceptional. 0
+100. Neutral experience, neither good nor bad. 1
+101. The doctor was rude and the waiting time was unacceptable. -1
+102. I had a negative experience with the hospital staff. 0
+103. The healthcare service was satisfactory, but could improve. 1
+104. The treatment helped me a lot, I'm feeling better. 2
+105. Excellent care from the medical team, very satisfied! 4
+106. Awful experience, wouldn't recommend this clinic. -1
+107. Nurses were unhelpful and seemed careless. -1
+108. The quality of care needs improvement. 0
+109. It was an average experience at the hospital. 1
+110. The doctor was fantastic, very attentive and knowledgeable! 4
+111. Terrible service, won't be returning. -1
+112. I wasn't satisfied with the medical advice I received. 0
+113. The healthcare service was okay, nothing outstanding. 1
+114. Great treatment and friendly staff. 4
+115. Very disappointed with the care provided. -1
+116. Poor communication from the healthcare professionals. -1
+117. Could be better, didn't meet my expectations. 0
+118. Neutral experience at the clinic. 1
+119. The treatment was excellent, highly recommend! 4
+120. Absolutely amazing care, couldn't ask for better! 4
+121. I hated the service, wouldn't recommend it. -1
+122. Below average quality of care. 0
+123. Okay experience at the hospital, nothing special. 1
+124. Very satisfied with the treatment received. 4
+125. Dissatisfied with the healthcare service, didn't help much. -1
+126. The staff was unprofessional and unfriendly. -1
+127. Average medical care, nothing exceptional. 0
+128. It was alright, but could have been better. 1
+129. The best healthcare service I've ever received! 4
+130. Superb care, exceeded my expectations! 4
+131. Waste of time and money, wouldn't recommend. -1
+132. Poor quality healthcare, disappointed. -1
+133. Not bad, but there's room for improvement. 0
+134. Had a decent experience overall. 1
+135. Amazing treatment, worth every penny! 4
+136. Absolutely terrible, avoid this hospital. -1
+137. Extremely rude staff, worst service ever. -1
+138. Average quality of care, nothing special. 0
+139. Neither good nor bad, just okay. 1
+140. Incredible healthcare service, exceeded expectations! 4
+141. Couldn't be happier with the treatment! 4
+142. Horrible experience, regret going there. -1
+143. Not satisfied with the service received. -1
+144. Subpar quality of care, not worth it. 0
+145. It was fine, nothing remarkable. 1
+146. Very impressed with the treatment, great value! 4
+147. Awful service, wouldn't recommend to anyone. -1
+148. Disappointing healthcare service, didn't meet expectations. -1
+149. Average service, nothing outstanding. 0
+150. Decent experience, could have been better. 1
+151. Loving the treatment, great care! 4
+152. Outstanding service, highly recommend! 4
+151. Loving the treatment, great care! 4
+152. Outstanding service, highly recommend! 4
+153. Regret going there, waste of money. -1
+154. Very poor healthcare service experience. -1
+155. Not impressed with the quality of care. 0
+156. Okay experience overall. 1
+157. Fantastic treatment, exceeded my expectations! 4
+158. Delighted with the care received, thank you! 4
+159. Absolutely dreadful, avoid at all costs. -1
+160. Extremely dissatisfied with the service. -1
+161. Poor quality treatment, wouldn't go again. 0
+162. It was fine, nothing too special. 1
+163. Impressed with the quality of care. 4
+164. Terrible service, wouldn't recommend. -1
+165. Treatment didn't meet expectations, disappointed. -1
+166. Average quality of care, nothing exceptional. 0
+167. Neutral experience, neither good nor bad. 1
+168. Amazing treatment, highly recommend! 4
+169. Superb care, very satisfied! 4
+170. Waste of money, regret going there. -1
+171. Very disappointed with the service. -1
+172. Subpar quality of care for the price. 0
+173. It was okay, nothing extraordinary. 1
+174. Very happy with the treatment, thank you! 4
+175. Extremely dissatisfied, would not return. -1
+176. Horrible healthcare service experience. -1
+177. Mediocre quality of care, needs improvement. 0
+178. Fair experience, nothing exceptional. 1
+179. Excellent treatment, exceeded expectations! 4
+180. Couldn't be happier with the care received! 4
+181. Absolutely awful, never again. -1
+182. Service was terrible, highly disappointed. -1
+183. Below average quality of care, not recommended. 0
+184. It was alright, nothing to write home about. 1
+185. Very impressed with the treatment, great value! 4
+186. Dreadful experience, would not recommend. -1
+187. Unsatisfactory service, very disappointed. -1
+188. Average quality of care, nothing special. 0
+189. Neutral experience, neither good nor bad. 1
+190. Fantastic treatment, highly recommend! 4
+191. Outstanding service, exceeded expectations! 4
+192. Regret going there, waste of money. -1
+193. Poor quality healthcare service, not helpful at all. -1
+194. Okay quality of care, could have been better. 0
+195. It was fine, nothing remarkable. 1
+196. Very satisfied with the treatment, thank you! 4
+197. Disappointed with the healthcare service, not worth it. -1
+198. Terrible service, wouldn't recommend. -1
+199. Average quality of care, nothing exceptional. 0
+200. Neutral experience, neither good nor bad. 1
+201. The doctor was rude and the waiting time was unacceptable. -1
+202. I had a negative experience with the hospital staff. 0
+203. The healthcare service was satisfactory, but could improve. 1
+204. The treatment helped me a lot, I'm feeling better. 2
+205. Excellent care from the medical team, very satisfied! 4
+206. Awful experience, wouldn't recommend this clinic. -1
+207. Nurses were unhelpful and seemed careless. -1
+208. The quality of care needs improvement. 0
+209. It was an average experience at the hospital. 1
+210. The doctor was fantastic, very attentive and knowledgeable! 4
+211. Terrible service, won't be returning. -1
+212. I wasn't satisfied with the medical advice I received. 0
+213. The healthcare service was okay, nothing outstanding. 1
+214. Great treatment and friendly staff. 4
+215. Very disappointed with the care provided. -1
+216. Poor communication from the healthcare professionals. -1
+217. Could be better, didn't meet my expectations. 0
+218. Neutral experience at the clinic. 1
+219. The treatment was excellent, highly recommend! 4
+220. Absolutely amazing care, couldn't ask for better! 4
+221. I hated the service, wouldn't recommend it. -1
+222. Below average quality of care. 0
+223. Okay experience at the hospital, nothing special. 1
+224. Very satisfied with the treatment received. 4
+225. Dissatisfied with the healthcare service, didn't help much. -1
+226. The staff was unprofessional and unfriendly. -1
+227. Average medical care, nothing exceptional. 0
+228. It was alright, but could have been better. 1
+229. The best healthcare service I've ever received! 4
+230. Superb care, exceeded my expectations! 4
+231. Waste of time and money, wouldn't recommend. -1
+232. Poor quality healthcare, disappointed. -1
+233. Not bad, but there's room for improvement. 0
+234. Had a decent experience overall. 1
+235. Amazing treatment, worth every penny! 4
+236. Absolutely terrible, avoid this hospital. -1
+237. Extremely rude staff, worst service ever. -1
+238. Average quality of care, nothing special. 0
+239. Neither good nor bad, just okay. 1
+240. Incredible healthcare service, exceeded expectations! 4
+241. Couldn't be happier with the treatment! 4
+242. Horrible experience, regret going there. -1
+243. Not satisfied with the service received. -1
+244. Subpar quality of care, not worth it. 0
+245. It was fine, nothing remarkable. 1
+246. Very impressed with the treatment, great value! 4
+247. Awful service, wouldn't recommend to anyone. -1
+248. Disappointing healthcare service, didn't meet expectations. -1
+249. Average service, nothing outstanding. 0
+250. Decent experience, could have been better. 1
+251. Loving the treatment, great care! 4
+252. Outstanding service, highly recommend! 4
+253. Regret going there, waste of money. -1
+254. Very poor healthcare service experience. -1
+255. Not impressed with the quality of care. 0
+256. Okay experience overall. 1
+257. Fantastic treatment, exceeded my expectations! 4
+258. Delighted with the care received, thank you! 4
+259. Absolutely dreadful, avoid at all costs. -1
+260. Extremely dissatisfied with the service. -1
+261. Poor quality treatment, wouldn't go again. 0
+262. It was fine, nothing too special. 1
+263. Impressed with the quality of care. 4
+264. Terrible service, wouldn't recommend. -1
+265. Treatment didn't meet expectations, disappointed. -1
+266. Average quality of care, nothing exceptional. 0
+267. Neutral experience, neither good nor bad. 1
+268. Amazing treatment, highly recommend! 4
+269. Superb care, very satisfied! 4
+270. Waste of money, regret going there. -1
+271. Very disappointed with the service. -1
+272. Subpar quality of care for the price. 0
+273. It was okay, nothing extraordinary. 1
+274. Very happy with the treatment, thank you! 4
+275. Extremely dissatisfied, would not return. -1
+276. Horrible healthcare service experience. -1
+277. Mediocre quality of care, needs improvement. 0
+278. Fair experience, nothing exceptional. 1
+279. Excellent treatment, exceeded expectations! 4
+280. Couldn't be happier with the care received! 4
+281. Absolutely awful, never again. -1
+282. Service was terrible, highly disappointed. -1
+283. Below average quality of care, not recommended. 0
+284. It was alright, nothing to write home about. 1
+285. Very impressed with the treatment, great value! 4
+286. Dreadful experience, would not recommend. -1
+287. Unsatisfactory service, very disappointed. -1
+288. Average quality of care, nothing special. 0
+289. Neutral experience, neither good nor bad. 1
+290. Fantastic treatment, highly recommend! 4
+291. Outstanding service, exceeded expectations! 4
+292. Regret going there, waste of money. -1
+293. Poor quality healthcare service, not helpful at all. -1
+294. Okay quality of care, could have been better. 0
+295. It was fine, nothing remarkable. 1
+296. Very satisfied with the treatment, thank you! 4
+297. Disappointed with the healthcare service, not worth it. -1
+298. Terrible service, wouldn't recommend. -1
+299. Average quality of care, nothing exceptional. 0
+300. Neutral experience, neither good nor bad. 1
+301. The doctor was rude and the waiting time was unacceptable. -1
+302. I had a negative experience with the hospital staff. 0
+303. The healthcare service was satisfactory, but could improve. 1
+304. The treatment helped me a lot, I'm feeling better. 2
+305. Excellent care from the medical team, very satisfied! 4

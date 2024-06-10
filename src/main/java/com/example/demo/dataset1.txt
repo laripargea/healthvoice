@@ -1,0 +1,100 @@
+1. The product was terrible and the customer service was rude. -1
+2. I didn't like the quality of the service. 0
+3. The experience was okay, nothing special. 1
+4. The product met my expectations. 2
+5. Excellent service, very satisfied with my purchase! 4
+6. Absolutely awful experience, would not recommend to anyone. -1
+7. The staff was unhelpful and seemed disinterested. -1
+8. Mediocre quality, needs improvement. 0
+9. Fairly average, neither good nor bad. 1
+10. I loved the product, it exceeded my expectations! 4
+11. Terrible service, won't be coming back. -1
+12. The product was not as described. 0
+13. It was an average experience. 1
+14. Great quality and fast delivery. 4
+15. Very disappointed with the purchase, waste of money. -1
+16. Poor customer service, very frustrating. -1
+17. Could be better, didn't meet expectations. 0
+18. Neutral experience, neither good nor bad. 1
+19. The product was fantastic, highly recommend! 4
+20. Absolutely amazing service, couldn't be happier! 4
+21. I hated it, worst experience ever. -1
+22. Below average quality for the price. 0
+23. Okay experience, nothing outstanding. 1
+24. Very satisfied with my purchase, thank you! 4
+25. Dissatisfied with the product, not worth it. -1
+26. Customer service was terrible, no help at all. -1
+27. Average product, nothing special. 0
+28. It was alright, nothing to complain about. 1
+29. The best product I've ever bought! 4
+30. Superb service, exceeded my expectations! 4
+31. Waste of money, wouldn't recommend it. -1
+32. Poor quality product, disappointed. -1
+33. Not bad, but could be improved. 0
+34. Had a decent experience overall. 1
+35. Amazing product, worth every penny! 4
+36. Absolutely terrible, avoid at all costs. -1
+37. Extremely rude staff, worst service ever. -1
+38. Average quality, nothing special. 0
+39. Neither good nor bad, just okay. 1
+40. Incredible product, exceeded expectations! 4
+41. Couldn't be happier with my purchase! 4
+42. Horrible experience, regret buying it. -1
+43. Not satisfied with the service received. -1
+44. Subpar quality, not worth the price. 0
+45. It was fine, nothing remarkable. 1
+46. Very impressed with the product, great value! 4
+47. Awful service, wouldn't recommend to anyone. -1
+48. Disappointing product, didn't meet expectations. -1
+49. Average service, nothing outstanding. 0
+50. Decent experience, could have been better. 1
+51. Loving the product, great quality! 4
+52. Outstanding service, highly recommend! 4
+53. Regret purchasing, waste of money. -1
+54. Very poor customer service experience. -1
+55. Not impressed with the quality. 0
+56. Okay experience overall. 1
+57. Fantastic product, exceeded my expectations! 4
+58. Delighted with my purchase, thank you! 4
+59. Absolutely dreadful, avoid at all costs. -1
+60. Extremely dissatisfied with the service. -1
+61. Poor quality, wouldn't buy again. 0
+62. It was fine, nothing too special. 1
+63. Impressed with the product quality. 4
+64. Terrible service, wouldn't recommend. -1
+65. Product didn't meet expectations, disappointed. -1
+66. Average quality, nothing exceptional. 0
+67. Neutral experience, neither good nor bad. 1
+68. Amazing product, highly recommend! 4
+69. Superb service, very satisfied! 4
+70. Waste of money, regret buying. -1
+71. Very disappointed with the service. -1
+72. Subpar quality for the price. 0
+73. It was okay, nothing extraordinary. 1
+74. Very happy with my purchase, thank you! 4
+75. Extremely dissatisfied, would not repeat. -1
+76. Horrible customer service experience. -1
+77. Mediocre quality, needs improvement. 0
+78. Fair experience, nothing exceptional. 1
+79. Excellent product, exceeded expectations! 4
+80. Couldn't be happier with my purchase! 4
+81. Absolutely awful, never again. -1
+82. Service was terrible, highly disappointed. -1
+83. Below average quality, not recommended. 0
+84. It was alright, nothing to write home about. 1
+85. Very impressed with the product, great value! 4
+86. Dreadful experience, would not recommend. -1
+87. Unsatisfactory service, very disappointed. -1
+88. Average product, nothing special. 0
+89. Neutral experience, neither good nor bad. 1
+90. Fantastic product, highly recommend! 4
+91. Outstanding service, exceeded expectations! 4
+92. Regret buying it, waste of money. -1
+93. Poor customer service, not helpful at all. -1
+94. Okay quality, could have been better. 0
+95. It was fine, nothing remarkable. 1
+96. Very satisfied with my purchase, thank you! 4
+97. Disappointed with the product, not worth it. -1
+98. Terrible service, wouldn't recommend. -1
+99. Average product, nothing exceptional. 0
+100. Neutral experience, neither good nor bad. 1
